@@ -1,0 +1,1782 @@
+{
+  "categories": [
+    {
+      "name": "熱壓",
+      "textColor": "#000000",
+      "bgColor": "#bbdaf7"
+    },
+    {
+      "name": "貝果",
+      "textColor": "#000000",
+      "bgColor": "#c673f2"
+    },
+    {
+      "name": "滿福",
+      "textColor": "#000000",
+      "bgColor": "#fc8383"
+    },
+    {
+      "name": "加料",
+      "textColor": "#000000",
+      "bgColor": "#7cfe7e"
+    },
+    {
+      "name": "可頌",
+      "textColor": "#000000",
+      "bgColor": "#ecfe62"
+    },
+    {
+      "name": "仿炸",
+      "textColor": "#000000",
+      "bgColor": "#ffb066"
+    },
+    {
+      "name": "飲料",
+      "textColor": "#000000",
+      "bgColor": "#02deed"
+    },
+    {
+      "name": "義麵",
+      "textColor": "#000000",
+      "bgColor": "#fe16ea"
+    }
+  ],
+  "priceTypes": [
+    "單價",
+    "套餐",
+    "套餐加購",
+    "加價",
+    "L冷",
+    "M冷",
+    "L熱",
+    "M熱",
+    "折扣"
+  ],
+  "flavors": [
+    {
+      "id": 1,
+      "name": "紅醬",
+      "extraCharge": 0
+    },
+    {
+      "id": 2,
+      "name": "白醬",
+      "extraCharge": 0
+    },
+    {
+      "id": 3,
+      "name": "青醬",
+      "extraCharge": 20
+    },
+    {
+      "id": 4,
+      "name": "粉紅醬",
+      "extraCharge": 20
+    }
+  ],
+  "products": [
+    {
+      "name": "經典起司牛",
+      "category": "熱壓",
+      "displayText": "A牛",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#bbdaf7",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 85,
+        "套餐": 99
+      },
+      "id": 1
+    },
+    {
+      "name": "招牌手作豬",
+      "category": "熱壓",
+      "displayText": "B豬",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#bbdaf7",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 75,
+        "套餐": 89
+      },
+      "id": 2
+    },
+    {
+      "name": "紐奧良烤雞",
+      "category": "熱壓",
+      "displayText": "C紐",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#bbdaf7",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 75,
+        "套餐": 89
+      },
+      "id": 3
+    },
+    {
+      "name": "培根起司蛋",
+      "category": "熱壓",
+      "displayText": "D培",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#bbdaf7",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 70,
+        "套餐": 84
+      },
+      "id": 4
+    },
+    {
+      "name": "韓式泡菜蛋",
+      "category": "熱壓",
+      "displayText": "E泡",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#bbdaf7",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 65,
+        "套餐": 79
+      },
+      "id": 5
+    },
+    {
+      "name": "純棉花糖",
+      "category": "熱壓",
+      "displayText": "F棉",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#bbdaf7",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 45,
+        "套餐": 59
+      },
+      "id": 6
+    },
+    {
+      "name": "榛果巧克力棉花糖",
+      "category": "熱壓",
+      "displayText": "F巧",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#bbdaf7",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 45,
+        "套餐": 59
+      },
+      "id": 7
+    },
+    {
+      "name": "花生棉花糖",
+      "category": "熱壓",
+      "displayText": "F花",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#bbdaf7",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 45,
+        "套餐": 59
+      },
+      "id": 8
+    },
+    {
+      "name": "雙醬棉花糖",
+      "category": "熱壓",
+      "displayText": "F雙醬",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#bbdaf7",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 45,
+        "套餐": 59
+      },
+      "id": 9
+    },
+    {
+      "name": "藍莓果醬棉花糖",
+      "category": "熱壓",
+      "displayText": "F藍",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#bbdaf7",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 45,
+        "套餐": 59
+      },
+      "id": 10
+    },
+    {
+      "name": "草莓棉花糖",
+      "category": "熱壓",
+      "displayText": "F草",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#bbdaf7",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 45,
+        "套餐": 59
+      },
+      "id": 11
+    },
+    {
+      "name": "雙莓棉花糖",
+      "category": "熱壓",
+      "displayText": "F雙莓",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#bbdaf7",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 45,
+        "套餐": 59
+      },
+      "id": 12
+    },
+    {
+      "name": "雙層起司",
+      "category": "熱壓",
+      "displayText": "G起",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#bbdaf7",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 55,
+        "套餐": 69
+      },
+      "id": 13
+    },
+    {
+      "name": "起司滿福蛋",
+      "category": "熱壓",
+      "displayText": "G蛋",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#bbdaf7",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 60,
+        "套餐": 74
+      },
+      "id": 14
+    },
+    {
+      "name": "巧克力起司",
+      "category": "熱壓",
+      "displayText": "G巧",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#bbdaf7",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 55,
+        "套餐": 69
+      },
+      "id": 15
+    },
+    {
+      "name": "花生醬起司",
+      "category": "熱壓",
+      "displayText": "G花",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#bbdaf7",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 55,
+        "套餐": 69
+      },
+      "id": 16
+    },
+    {
+      "name": "雙種抹醬起司",
+      "category": "熱壓",
+      "displayText": "G雙醬",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#bbdaf7",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 55,
+        "套餐": 69
+      },
+      "id": 17
+    },
+    {
+      "name": "藍莓起司",
+      "category": "熱壓",
+      "displayText": "G藍",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#bbdaf7",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 55,
+        "套餐": 69
+      },
+      "id": 18
+    },
+    {
+      "name": "草莓起司",
+      "category": "熱壓",
+      "displayText": "G草",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#bbdaf7",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 55,
+        "套餐": 69
+      },
+      "id": 19
+    },
+    {
+      "name": "雙種莓果起司",
+      "category": "熱壓",
+      "displayText": "G雙莓",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#bbdaf7",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 55,
+        "套餐": 69
+      },
+      "id": 20
+    },
+    {
+      "name": "香蒜起司",
+      "category": "熱壓",
+      "displayText": "G蒜",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#bbdaf7",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 55,
+        "套餐": 69
+      },
+      "id": 21
+    },
+    {
+      "name": "玉米起司蛋",
+      "category": "熱壓",
+      "displayText": "H玉",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#bbdaf7",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 65,
+        "套餐": 79
+      },
+      "id": 22
+    },
+    {
+      "name": "鮪魚起司蛋",
+      "category": "熱壓",
+      "displayText": "I鮪",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#bbdaf7",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 65,
+        "套餐": 79
+      },
+      "id": 23
+    },
+    {
+      "name": "美墨辣德腸",
+      "category": "熱壓",
+      "displayText": "J腸",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#bbdaf7",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 75,
+        "套餐": 89
+      },
+      "id": 24
+    },
+    {
+      "name": "燻雞起司蛋",
+      "category": "熱壓",
+      "displayText": "K燻",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#bbdaf7",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 75,
+        "套餐": 89
+      },
+      "id": 25
+    },
+    {
+      "name": "香料蕈菇蛋",
+      "category": "熱壓",
+      "displayText": "L菇",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#bbdaf7",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 70,
+        "套餐": 84
+      },
+      "id": 26
+    },
+    {
+      "name": "鮮蔬起司蛋",
+      "category": "熱壓",
+      "displayText": "N蔬",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#bbdaf7",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 75,
+        "套餐": 89
+      },
+      "id": 27
+    },
+    {
+      "name": "紐約客起司熱狗",
+      "category": "熱壓",
+      "displayText": "O約",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#bbdaf7",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 75,
+        "套餐": 89
+      },
+      "id": 28
+    },
+    {
+      "name": "窯烤手撕雞",
+      "category": "熱壓",
+      "displayText": "P撕",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#bbdaf7",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 75,
+        "套餐": 89
+      },
+      "id": 29
+    },
+    {
+      "name": "莎莎手打肉丸",
+      "category": "熱壓",
+      "displayText": "Q丸",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#bbdaf7",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 85,
+        "套餐": 99
+      },
+      "id": 30
+    },
+    {
+      "name": "乳酪絲",
+      "category": "加料",
+      "displayText": "+絲",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#7cfe7e",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": true,
+      "prices": {
+        "加價": 20
+      },
+      "id": 31
+    },
+    {
+      "name": "滿福蛋",
+      "category": "加料",
+      "displayText": "+蛋",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#7cfe7e",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "加價": 15
+      },
+      "id": 32
+    },
+    {
+      "name": "德式香腸",
+      "category": "加料",
+      "displayText": "+腸",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#7cfe7e",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "加價": 20
+      },
+      "id": 33
+    },
+    {
+      "name": "熱狗片",
+      "category": "加料",
+      "displayText": "+狗",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#7cfe7e",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "加價": 20
+      },
+      "id": 34
+    },
+    {
+      "name": "香料蕈菇",
+      "category": "加料",
+      "displayText": "+菇",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#7cfe7e",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "加價": 15
+      },
+      "id": 35
+    },
+    {
+      "name": "手撕雞加量",
+      "category": "加料",
+      "displayText": "+撕",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#7cfe7e",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "加價": 30
+      },
+      "id": 36
+    },
+    {
+      "name": "花生醬（雙片）",
+      "category": "加料",
+      "displayText": "+花",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#7cfe7e",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "加價": 10
+      },
+      "id": 37
+    },
+    {
+      "name": "巧克力醬(雙片)",
+      "category": "加料",
+      "displayText": "+巧",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#7cfe7e",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "加價": 10
+      },
+      "id": 38
+    },
+    {
+      "name": "草莓果醬",
+      "category": "加料",
+      "displayText": "+草",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#7cfe7e",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "加價": 10
+      },
+      "id": 39
+    },
+    {
+      "name": "藍莓果醬",
+      "category": "加料",
+      "displayText": "+藍",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#7cfe7e",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "加價": 10
+      },
+      "id": 40
+    },
+    {
+      "name": "紐澳良烤雞加量",
+      "category": "加料",
+      "displayText": "+紐",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#7cfe7e",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "加價": 30
+      },
+      "id": 41
+    },
+    {
+      "name": "燻雞加量",
+      "category": "加料",
+      "displayText": "+燻",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#7cfe7e",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "加價": 30
+      },
+      "id": 42
+    },
+    {
+      "name": "培根加量",
+      "category": "加料",
+      "displayText": "+培",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#7cfe7e",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "加價": 20
+      },
+      "id": 43
+    },
+    {
+      "name": "韓式泡菜",
+      "category": "加料",
+      "displayText": "+泡",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#7cfe7e",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "加價": 15
+      },
+      "id": 44
+    },
+    {
+      "name": "起司片",
+      "category": "加料",
+      "displayText": "+起",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#7cfe7e",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "加價": 15
+      },
+      "id": 45
+    },
+    {
+      "name": "黃金玉米",
+      "category": "加料",
+      "displayText": "+玉",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#7cfe7e",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "加價": 15
+      },
+      "id": 46
+    },
+    {
+      "name": "鮪魚加量",
+      "category": "加料",
+      "displayText": "+鮪",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#7cfe7e",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "加價": 30
+      },
+      "id": 47
+    },
+    {
+      "name": "美墨醬",
+      "category": "加料",
+      "displayText": "+美墨",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#7cfe7e",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "加價": 15
+      },
+      "id": 48
+    },
+    {
+      "name": "香蒜貝果",
+      "category": "貝果",
+      "displayText": "蒜貝",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#c673f2",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 50,
+        "套餐": 64
+      },
+      "id": 49
+    },
+    {
+      "name": "巧克力貝果",
+      "category": "貝果",
+      "displayText": "巧貝",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#c673f2",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 50,
+        "套餐": 64
+      },
+      "id": 50
+    },
+    {
+      "name": "花生貝果",
+      "category": "貝果",
+      "displayText": "花貝",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#c673f2",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 50,
+        "套餐": 64
+      },
+      "id": 51
+    },
+    {
+      "name": "藍莓貝果",
+      "category": "貝果",
+      "displayText": "藍貝",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#c673f2",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 50,
+        "套餐": 64
+      },
+      "id": 52
+    },
+    {
+      "name": "草莓貝果",
+      "category": "貝果",
+      "displayText": "草貝",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#c673f2",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 50,
+        "套餐": 64
+      },
+      "id": 53
+    },
+    {
+      "name": "嫩蛋起司貝果",
+      "category": "貝果",
+      "displayText": "蛋貝",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#c673f2",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 70,
+        "套餐": 84
+      },
+      "id": 54
+    },
+    {
+      "name": "嫩蛋蕈菇起司貝果",
+      "category": "貝果",
+      "displayText": "菇貝",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#c673f2",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 75,
+        "套餐": 89
+      },
+      "id": 55
+    },
+    {
+      "name": "嫩蛋鮪魚起司貝果",
+      "category": "貝果",
+      "displayText": "鮪貝",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#c673f2",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 75,
+        "套餐": 89
+      },
+      "id": 56
+    },
+    {
+      "name": "嫩蛋培根起司貝果",
+      "category": "貝果",
+      "displayText": "培貝",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#c673f2",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 75,
+        "套餐": 89
+      },
+      "id": 57
+    },
+    {
+      "name": "嫩蛋燻雞起司貝果",
+      "category": "貝果",
+      "displayText": "燻貝",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#c673f2",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 75,
+        "套餐": 89
+      },
+      "id": 58
+    },
+    {
+      "name": "嫩蛋手撕雞起司貝果",
+      "category": "貝果",
+      "displayText": "撕貝",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#c673f2",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 80,
+        "套餐": 94
+      },
+      "id": 59
+    },
+    {
+      "name": "厚蛋起司滿福堡",
+      "category": "滿福",
+      "displayText": "蛋福",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#fc8383",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 55,
+        "套餐": 69
+      },
+      "id": 60
+    },
+    {
+      "name": "厚蛋菇菇起司滿福堡",
+      "category": "滿福",
+      "displayText": "菇福",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#fc8383",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 65,
+        "套餐": 79
+      },
+      "id": 61
+    },
+    {
+      "name": "厚蛋鮪魚起司滿福堡",
+      "category": "滿福",
+      "displayText": "鮪福",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#fc8383",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 65,
+        "套餐": 79
+      },
+      "id": 62
+    },
+    {
+      "name": "厚蛋培根起司滿福堡",
+      "category": "滿福",
+      "displayText": "培福",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#fc8383",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 70,
+        "套餐": 84
+      },
+      "id": 63
+    },
+    {
+      "name": "厚蛋燻雞起司滿福堡",
+      "category": "滿福",
+      "displayText": "燻福",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#fc8383",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 75,
+        "套餐": 89
+      },
+      "id": 64
+    },
+    {
+      "name": "厚蛋手撕雞起司滿福堡",
+      "category": "滿福",
+      "displayText": "撕福",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#fc8383",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 75,
+        "套餐": 89
+      },
+      "id": 65
+    },
+    {
+      "name": "厚蛋豬肉起司滿福堡",
+      "category": "滿福",
+      "displayText": "豬福",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#fc8383",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 75,
+        "套餐": 89
+      },
+      "id": 66
+    },
+    {
+      "name": "厚蛋牛肉起司滿福堡",
+      "category": "滿福",
+      "displayText": "牛福",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#fc8383",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 80,
+        "套餐": 94
+      },
+      "id": 67
+    },
+    {
+      "name": "原味可頌",
+      "category": "可頌",
+      "displayText": "原頌",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#ecfe62",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 60,
+        "套餐": 74
+      },
+      "id": 68
+    },
+    {
+      "name": "巧克力可頌",
+      "category": "可頌",
+      "displayText": "巧頌",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#ecfe62",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 65,
+        "套餐": 79
+      },
+      "id": 69
+    },
+    {
+      "name": "花生可頌",
+      "category": "可頌",
+      "displayText": "花頌",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#ecfe62",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 65,
+        "套餐": 79
+      },
+      "id": 70
+    },
+    {
+      "name": "美式熱狗",
+      "category": "仿炸",
+      "displayText": "熱狗",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#ffb066",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 39,
+        "套餐加購": 29
+      },
+      "id": 71
+    },
+    {
+      "name": "粒粒脆薯球",
+      "category": "仿炸",
+      "displayText": "薯球",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#ffb066",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 49,
+        "套餐加購": 39
+      },
+      "id": 72
+    },
+    {
+      "name": "德腸切片",
+      "category": "仿炸",
+      "displayText": "德切",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#ffb066",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 49,
+        "套餐加購": 39
+      },
+      "id": 73
+    },
+    {
+      "name": "口感厚脆薯",
+      "category": "仿炸",
+      "displayText": "脆薯",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#ffb066",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 59,
+        "套餐加購": 49
+      },
+      "id": 74
+    },
+    {
+      "name": "黃金洋蔥圈",
+      "category": "仿炸",
+      "displayText": "洋圈",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#ffb066",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 69,
+        "套餐加購": 59
+      },
+      "id": 75
+    },
+    {
+      "name": "海鹽薯瓣",
+      "category": "仿炸",
+      "displayText": "薯瓣",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#ffb066",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 79,
+        "套餐加購": 69
+      },
+      "id": 76
+    },
+    {
+      "name": "香酥雞塊",
+      "category": "仿炸",
+      "displayText": "雞塊",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#ffb066",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 99,
+        "套餐加購": 89
+      },
+      "id": 77
+    },
+    {
+      "name": "美式雞柳條",
+      "category": "仿炸",
+      "displayText": "雞柳",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#ffb066",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "單價": 159,
+        "套餐加購": 139
+      },
+      "id": 78
+    },
+    {
+      "name": "美式咖啡",
+      "category": "飲料",
+      "displayText": "美咖",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#ff7300",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "L冷": 60,
+        "M冷": 55,
+        "L熱": 60,
+        "M熱": 55
+      },
+      "id": 79
+    },
+    {
+      "name": "特調咖啡",
+      "category": "飲料",
+      "displayText": "特調",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#ff7300",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "L冷": 70,
+        "M冷": 60,
+        "L熱": 70,
+        "M熱": 60
+      },
+      "id": 80
+    },
+    {
+      "name": "拿鐵咖啡",
+      "category": "飲料",
+      "displayText": "拿咖",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#ff7300",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "L冷": 90,
+        "M冷": 80,
+        "L熱": 90,
+        "M熱": 80
+      },
+      "id": 81
+    },
+    {
+      "name": "香草拿鐵",
+      "category": "飲料",
+      "displayText": "香拿",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#ff7300",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "L冷": 100,
+        "M冷": 90,
+        "L熱": 100,
+        "M熱": 90
+      },
+      "id": 82
+    },
+    {
+      "name": "榛果拿鐵",
+      "category": "飲料",
+      "displayText": "榛拿",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#ff7300",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "L冷": 100,
+        "M冷": 90,
+        "L熱": 100,
+        "M熱": 90
+      },
+      "id": 83
+    },
+    {
+      "name": "焦糖拿鐵",
+      "category": "飲料",
+      "displayText": "焦拿",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#ff7300",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "L冷": 100,
+        "M冷": 90,
+        "L熱": 100,
+        "M熱": 90
+      },
+      "id": 84
+    },
+    {
+      "name": "黑糖拿鐵",
+      "category": "飲料",
+      "displayText": "黑拿",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#ff7300",
+      "displayFontSize": 16,
+      "isDrinkCounted": true,
+      "isDiscountItem": false,
+      "prices": {
+        "L冷": 100,
+        "M冷": 90,
+        "L熱": 100,
+        "M熱": 90
+      },
+      "id": 85
+    },
+    {
+      "name": "焦糖瑪奇朵",
+      "category": "飲料",
+      "displayText": "焦朵",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#ff7300",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": true,
+      "prices": {
+        "L冷": 100,
+        "M冷": 90,
+        "L熱": 100,
+        "M熱": 90,
+        "折扣": -20
+      },
+      "id": 86
+    },
+    {
+      "name": "紅茶（固定微糖）",
+      "category": "飲料",
+      "displayText": "紅茶",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#02deed",
+      "displayFontSize": 16,
+      "isDrinkCounted": true,
+      "isDiscountItem": false,
+      "prices": {
+        "L冷": 30,
+        "M冷": 20,
+        "L熱": 30,
+        "M熱": 20
+      },
+      "id": 87
+    },
+    {
+      "name": "綠茶（固定無糖）",
+      "category": "飲料",
+      "displayText": "綠茶",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#02deed",
+      "displayFontSize": 16,
+      "isDrinkCounted": true,
+      "isDiscountItem": false,
+      "prices": {
+        "L冷": 30,
+        "M冷": 20,
+        "L熱": 30,
+        "M熱": 20
+      },
+      "id": 88
+    },
+    {
+      "name": "可樂",
+      "category": "飲料",
+      "displayText": "可樂",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#02deed",
+      "displayFontSize": 16,
+      "isDrinkCounted": true,
+      "isDiscountItem": false,
+      "prices": {
+        "L冷": 40,
+        "M冷": 35
+      },
+      "id": 89
+    },
+    {
+      "name": "雪碧",
+      "category": "飲料",
+      "displayText": "雪碧",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#02deed",
+      "displayFontSize": 16,
+      "isDrinkCounted": true,
+      "isDiscountItem": false,
+      "prices": {
+        "L冷": 40,
+        "M冷": 35
+      },
+      "id": 90
+    },
+    {
+      "name": "奶茶",
+      "category": "飲料",
+      "displayText": "奶茶",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#02deed",
+      "displayFontSize": 16,
+      "isDrinkCounted": true,
+      "isDiscountItem": false,
+      "prices": {
+        "L冷": 45,
+        "M冷": 35,
+        "L熱": 45,
+        "M熱": 35
+      },
+      "id": 91
+    },
+    {
+      "name": "鮮奶茶",
+      "category": "飲料",
+      "displayText": "鮮奶茶",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#02deed",
+      "displayFontSize": 16,
+      "isDrinkCounted": true,
+      "isDiscountItem": false,
+      "prices": {
+        "L冷": 65,
+        "M冷": 55,
+        "L熱": 65,
+        "M熱": 55
+      },
+      "id": 92
+    },
+    {
+      "name": "黑糖奶茶",
+      "category": "飲料",
+      "displayText": "黑糖奶",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#02deed",
+      "displayFontSize": 16,
+      "isDrinkCounted": true,
+      "isDiscountItem": false,
+      "prices": {
+        "L冷": 55,
+        "M冷": 45,
+        "L熱": 55,
+        "M熱": 45
+      },
+      "id": 93
+    },
+    {
+      "name": "黑糖鮮奶茶",
+      "category": "飲料",
+      "displayText": "黑鮮",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#02deed",
+      "displayFontSize": 16,
+      "isDrinkCounted": true,
+      "isDiscountItem": false,
+      "prices": {
+        "L冷": 75,
+        "M冷": 65,
+        "L熱": 75,
+        "M熱": 65
+      },
+      "id": 94
+    },
+    {
+      "name": "鴛鴦咖啡（濃縮+奶茶）",
+      "category": "飲料",
+      "displayText": "鴛鴦咖啡",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#02deed",
+      "displayFontSize": 16,
+      "isDrinkCounted": true,
+      "isDiscountItem": false,
+      "prices": {
+        "L冷": 65,
+        "M冷": 55,
+        "L熱": 65,
+        "M熱": 55
+      },
+      "id": 95
+    },
+    {
+      "name": "鴛鴦鮮奶茶（濃縮+鮮奶茶）",
+      "category": "飲料",
+      "displayText": "鴛鴦鮮奶茶",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#02deed",
+      "displayFontSize": 16,
+      "isDrinkCounted": true,
+      "isDiscountItem": false,
+      "prices": {
+        "L冷": 75,
+        "M冷": 65,
+        "L熱": 75,
+        "M熱": 65
+      },
+      "id": 96
+    },
+    {
+      "name": "巧克力牛奶",
+      "category": "飲料",
+      "displayText": "巧奶",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#02deed",
+      "displayFontSize": 16,
+      "isDrinkCounted": true,
+      "isDiscountItem": false,
+      "prices": {
+        "L冷": 75,
+        "M冷": 65,
+        "L熱": 75,
+        "M熱": 65
+      },
+      "id": 97
+    },
+    {
+      "name": "套餐折扣",
+      "category": "飲料",
+      "displayText": "折扣",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#c2c2c2",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": true,
+      "prices": {
+        "折扣": -20
+      },
+      "id": 98
+    },
+    {
+      "name": "蔬食義大利麵",
+      "category": "義麵",
+      "displayText": "蔬食義",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#fe16ea",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": true,
+      "prices": {
+        "單價": 125,
+        "套餐": 139
+      },
+      "selectedFlavors": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "id": 99
+    },
+    {
+      "name": "培根義大利麵",
+      "category": "義麵",
+      "displayText": "培根義",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#fe16ea",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": true,
+      "prices": {
+        "單價": 165,
+        "套餐": 179
+      },
+      "selectedFlavors": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "id": 100
+    },
+    {
+      "name": "燻雞義大利麵",
+      "category": "義麵",
+      "displayText": "燻雞義",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#fe16ea",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": true,
+      "prices": {
+        "單價": 165,
+        "套餐": 179
+      },
+      "selectedFlavors": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "id": 101
+    },
+    {
+      "name": "德式香腸義大利麵",
+      "category": "義麵",
+      "displayText": "德腸義",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#fe16ea",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": true,
+      "prices": {
+        "單價": 165,
+        "套餐": 179
+      },
+      "selectedFlavors": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "id": 102
+    },
+    {
+      "name": "招牌雞腿肉義大利麵",
+      "category": "義麵",
+      "displayText": "腿肉義",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#fe16ea",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": true,
+      "prices": {
+        "單價": 195,
+        "套餐": 199
+      },
+      "selectedFlavors": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "id": 103
+    },
+    {
+      "name": "手打肉丸義大利麵",
+      "category": "義麵",
+      "displayText": "肉丸義",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#fe16ea",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": true,
+      "prices": {
+        "單價": 195,
+        "套餐": 199
+      },
+      "selectedFlavors": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "id": 104
+    },
+    {
+      "name": "鳳尾鮮蝦義大利麵",
+      "category": "義麵",
+      "displayText": "鮮蝦義",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#fe16ea",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": true,
+      "prices": {
+        "單價": 205,
+        "套餐": 219
+      },
+      "selectedFlavors": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "id": 105
+    },
+    {
+      "name": "升級焗烤",
+      "category": "義麵",
+      "displayText": "+焗烤",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#fedf16",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "加價": 40
+      },
+      "id": 106
+    },
+    {
+      "name": "腿肉加量",
+      "category": "義麵",
+      "displayText": "+腿肉",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#fedf16",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "加價": 40
+      },
+      "id": 107
+    },
+    {
+      "name": "燻雞加量",
+      "category": "義麵",
+      "displayText": "+燻雞",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#fedf16",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "加價": 30
+      },
+      "id": 108
+    },
+    {
+      "name": "培根加量",
+      "category": "義麵",
+      "displayText": "+培根",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#fedf16",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "加價": 30
+      },
+      "id": 109
+    },
+    {
+      "name": "肉丸加量",
+      "category": "義麵",
+      "displayText": "+肉丸",
+      "displayTextColor": "#000000",
+      "displayBgColor": "#fedf16",
+      "displayFontSize": 16,
+      "isDrinkCounted": false,
+      "isDiscountItem": false,
+      "prices": {
+        "加價": 50
+      },
+      "id": 110
+    }
+  ]
+}
